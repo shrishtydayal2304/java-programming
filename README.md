@@ -1,2 +1,2 @@
-# myproject
+# java programming
 for java
