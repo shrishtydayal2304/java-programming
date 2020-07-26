@@ -21,3 +21,4 @@ class Solution {
 
 
 // for a sorted array the best and efficint approch is using two pointer.
+//one pointer at the zero index and the second at the last index of the array and then traverse according to the target.
