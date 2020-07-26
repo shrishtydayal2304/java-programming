@@ -1,2 +1,2 @@
 # java programming
-for java
+solutions in java
