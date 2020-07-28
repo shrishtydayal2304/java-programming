@@ -13,3 +13,4 @@ class Solution {
         nums[i]=temp[i];
          }
          }}
+// small and efficent approch ...first take a new temp array and apply the login and then copy baack it to the rotated array
