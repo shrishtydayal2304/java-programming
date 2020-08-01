@@ -22,3 +22,7 @@ public class Solution {
         }
     }
 }
+
+
+![image](https://user-images.githubusercontent.com/60177793/89106023-04b42180-d444-11ea-8f38-3cc47722e104.png)
+	 
